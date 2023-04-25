@@ -1,10 +1,6 @@
 # ctci-leetcode
 Cracking the Coding interview Questions on LeetCode
 
-<div class="content-area__2vnF"><div class="discuss-markdown-container"><p>This article is inspired by CTCI Questions Lists(<a href="https://leetcode.com/discuss/interview-question/256347/ctci-questions-lists">https://leetcode.com/discuss/interview-question/256347/ctci-questions-lists</a>) by @eilat and <a href="https://ryanym.com/posts/ctci-on-leetcode/" rel="ugc">https://ryanym.com/posts/ctci-on-leetcode/</a></p><p>
-</p><p>However, they are something to be do more, so I checked all the problem by myself and added, modified the lists, and if adding only exact same problem, it's difficult to find, so I added simlilar, harder, or easier problems if possible.</p><p>
-</p><p>If you want to add or modify, leave a comment, I'll check it and update it. Thanks.</p><p>
-</p><hr>
 <h2>Table of contents(click to go to the chapter)</h2>
 <p></p><p><a href="#1">Chapter 1: Arrays and Strings</a><br>
 <a href="#2">Chapter 2: Linked Lists</a><br>
